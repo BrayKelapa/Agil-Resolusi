@@ -1,5 +1,5 @@
 1. Master HTML
 2. Master CSS
 3. Master JS
-4. Master Frontend framework (untuk 3 bulan)
-5. Master backend
+4. Master Frontend framework (untuk 6 bulan)
+5. Master backend framework (untuk 6 bulan)
