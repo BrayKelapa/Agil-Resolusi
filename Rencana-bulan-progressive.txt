@@ -3,3 +3,4 @@
 3. Master JS
 4. Master Frontend framework (untuk 6 bulan)
 5. Master backend framework (untuk 6 bulan)
+6. Master fullstack (5 tahun)
