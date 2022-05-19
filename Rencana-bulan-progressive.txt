@@ -1,6 +1,7 @@
 1. Master HTML
 2. Master CSS
-3. Master JS
-5. Master backend (selingan ke frontend)
-4. Master Frontend framework (untuk 6 bulan)
+3. Master JS dan Java
+4. Master backend (selingan ke frontend)
+5. Master Frontend framework (untuk 6 bulan)
 6. fullstack dikuasai perlahan
+7. Saya perlu belajar fundamental dan juga lain2nya
